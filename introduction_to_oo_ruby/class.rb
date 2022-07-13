@@ -1,4 +1,4 @@
-class Person
+class Person # in Ruby it's not allowed multiple heritage 
     attr_writer :name
     
     def initialize(name)

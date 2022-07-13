@@ -14,6 +14,6 @@ object.print_hello("Bernardo")
 
 
 
-Bernardo = ClassName.new #new object
+Bernardo = ClassName.new #create a new object with my name
 Bernardo.print_hello("Bernardo")
 Bernardo.name

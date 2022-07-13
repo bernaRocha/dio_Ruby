@@ -34,3 +34,9 @@ sensor = TemperatureSensor.new
 sensor.install
 sensor.iniciate
 sensor.colect_data  
+
+#Installing the sensor
+#Iniciate the sensor
+#Colecting temperature data
+#Colecting data
+#Analyzing data
