@@ -13,3 +13,5 @@ print list #[1, 2, "3 - string", "4", 5]
 puts list.class #Array
 puts list.length #5
 puts list.empty? #false
+
+# https://www.rubyguides.com/
