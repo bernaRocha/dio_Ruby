@@ -7,3 +7,17 @@
 https://www.rubyguides.com/
 
 =end
+
+def my_method(first, second)
+    puts "My method was executed. First #{first} and second #{second}"
+end # return is optional
+
+def add (a, b)
+    return a + b
+end
+
+# is equal
+
+def add(a, b)
+    a + b
+end
